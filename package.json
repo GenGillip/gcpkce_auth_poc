@@ -1,0 +1,22 @@
+{
+  "name": "gcpkce_auth_poc",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "purecloud-platform-client-v2": "^219.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.3",
+    "vite-plugin-node-polyfills": "^0.25.0"
+  }
+}
